@@ -1,0 +1,25 @@
+{
+    "author": {
+        "id": "228965621478588416",
+        "fallback": "CRUGG#0001"
+    },
+    "contributors": [
+        {
+            "id": "618856533144502284",
+            "fallback": "Taiga#5535"
+        },
+        {
+            "id": "635407439608545310",
+            "fallback": "Taiga Development#1373"
+        }
+    ],
+    "name": "Hello World",
+    "internalName": "helloworld",
+    "version": "1.0",
+    "color": "#ff006d",
+    "tags": [
+        "example",
+        "programming"
+    ],
+    "category": "misc"
+}
