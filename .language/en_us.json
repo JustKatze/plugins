@@ -1,0 +1,9 @@
+{
+    "helloworld": {
+        "plugin.name": "Hello World",
+        "plugin.shortDescription": "Example Reference Plugin for Developers",
+        "plugin.longDescription": "This is a very simple reference plugin for plugin developers. This adds the `t+helloworld` command which outputs a message.",
+        "command.helloworld.description": "Hello World Command",
+        "command.helloworld.message": "Hello World! This Plugin works. Now checkout the code and make your own plugin: https://l.taigabot.net/exampleplugin"
+    }
+}
