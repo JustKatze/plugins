@@ -1,0 +1,9 @@
+{
+    "helloworld": {
+        "plugin.name": "Hallo Welt",
+        "plugin.shortDescription": "Beispiel Referenz Plugin für Entwickler",
+        "plugin.longDescription": "Dies ist ein sehr simples Referenz Plugin für Entwickler. Dieses fügt den `t+helloworld` Befehl hinzu, welcher eine Nachricht ausgibt.",
+        "command.helloworld.description": "Hallo Welt Befehl",
+        "command.helloworld.message": "Hallo Welt! Dieses Plugin funktioniert. Schaue dir jetzt den Code an, und mache dein eigenes Plugin: https://l.taigabot.net/exampleplugin"
+    }
+}
