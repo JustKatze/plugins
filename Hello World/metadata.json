@@ -21,5 +21,8 @@
         "example",
         "programming"
     ],
+    "allowedGuilds": ["*", "-447811940778246145"],
+    "allowedUsers": ["*"],
+    "listed": false,
     "category": "misc"
 }
